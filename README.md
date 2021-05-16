@@ -7,12 +7,12 @@ You can save the news with favorite button and share the article.
 
 # Includings
 
-Glitch
-Retrofit
-Room Database
-MVVM Architecture
-Navigation
-Fragments
-DiffUtil RecyclerView
-Pagination
+-Glitch
+-Retrofit
+-Room Database
+-MVVM Architecture
+-Navigation
+-Fragments
+-DiffUtil RecyclerView
+-Pagination
 
