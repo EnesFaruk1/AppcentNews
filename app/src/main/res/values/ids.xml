@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageButtonDetail_Favorite" type="id">imgBtn_favorite</item>
+    <item name="imageButtonDetail_Share" type="id">imgBtn_share</item>
+    <item name="buttonDetail_NewsSource" type="id">btn_newsSource</item>
+    <item name="textViewDetail_Content" type="id">tv_detail</item>
+    <item name="textViewDetail_PublishedAt" type="id">tv_detailPublished</item>
+    <item name="textViewDetail_Author" type="id">tv_detailAuthor</item>
+    <item name="textViewDetail_Title" type="id">tv_detailTitle</item>
+    <item name="imageViewDetail" type="id">iv_detail</item>
+    <item name="fabShare" type="id">fabShare</item>
+    <item name="fabFav" type="id">fabFav</item>
+</resources>
